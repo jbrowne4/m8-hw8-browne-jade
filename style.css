@@ -156,7 +156,7 @@ section.hero > button:hover {
   animation: hover 1s infinite alternate linear;
 }
 
-@keyframes:hover {
+@keyframes :hover {
   to {
     transform:  translateY(-8px)
   }
